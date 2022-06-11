@@ -17,4 +17,10 @@ public class AppTest
     {
         assertTrue( true );
     }
+	
+	 public void shouldAnswerWithFalse()
+    {
+        assertTrue( false );
+    }
+	
 }
